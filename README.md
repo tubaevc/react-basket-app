@@ -1,3 +1,6 @@
+![Ekran görüntüsü 2023-09-05 172637](https://github.com/tubaevc/react-basket-app/assets/100070917/a6503943-153d-48be-9e0c-c369db4d1b19)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
